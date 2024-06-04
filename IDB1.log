@@ -1,0 +1,530 @@
+commit 9eefa41e11d12260df957e4d644d2344b630d47b
+Merge: cf40bb2 d8119d3
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Thu Feb 22 00:37:08 2024 +0000
+
+    Merge branch 'ryan-bootstrap' into 'main'
+    
+    Fix sidebar alignment so it doesn't shift main content beneath it.  Remove...
+    
+    See merge request magretadekunle/cs331e-idb!19
+
+commit d8119d3735a720e2112e826f5e14fcb500e4566e
+Merge: 2fcc6f0 cf40bb2
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Thu Feb 22 00:36:18 2024 +0000
+
+    Merge branch 'main' into 'ryan-bootstrap'
+    
+    # Conflicts:
+    #   templates/about.html
+    #   templates/home.html
+    #   templates/relatedArtists.html
+    #   templates/showArtists.html
+    #   templates/showGenre.html
+
+commit cf40bb29fa0a72a810d424ff8938596133a789e5
+Merge: 17422e7 06ddcb5
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Thu Feb 22 00:32:59 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Updated Git log and Centered Headings on Pages
+    
+    See merge request magretadekunle/cs331e-idb!20
+
+commit 06ddcb514d0dffd6fc2c6574c25590b0e18d68ce
+Author: Magret <magretadekunle@gmail.com>
+Date:   Wed Feb 21 18:32:03 2024 -0600
+
+    Updated Git log and Centered Headings on Pages
+
+commit 2fcc6f020d97df46d07f032df3192bfb096ce2c1
+Merge: 7d4dd3f 17422e7
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Wed Feb 21 18:26:55 2024 -0600
+
+    Merge branch 'main' into ryan-bootstrap.
+    Add mild changes to container div of newer header.
+    Update "My Artist" page title to "My Artists"
+
+commit 7d4dd3fab1ecc2af541e855516cca071a1b89256
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Wed Feb 21 18:20:28 2024 -0600
+
+    Fix sidebar alignment so it doesn't shift main content beneath it.  Remove Home page until it's more developed.
+
+commit 17422e73981227a75bb0d0cf0f22b573b433785b
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 23:40:30 2024 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 9459cd097aa52e3c7b458a29f325d5c4612cad2a
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 23:39:19 2024 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 5a9a6d04494bc352cc6f7a59fa19851251901b76
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 23:37:25 2024 +0000
+
+    Update .gitlab-ci.yml file
+
+commit ecb5a2e46cfcf68af851f69f28ca999287fb5fef
+Merge: 907ddfe 5d46fd4
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 23:33:46 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Add files ".gitignore" ".gitlab-ci.yml" "models.html " per rubric
+    
+    See merge request magretadekunle/cs331e-idb!18
+
+commit 5d46fd480ee3c66613c8c6c496ea7c9ab08e3ca4
+Merge: c5001f4 907ddfe
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 23:31:55 2024 +0000
+
+    Merge branch 'main' into 'MagretsBranch'
+    
+    # Conflicts:
+    #   .gitlab-ci.yml
+
+commit 907ddfef3e802659d28031ea8c11d5c3864ae236
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 23:23:56 2024 +0000
+
+    Update .gitlab-ci.yml file
+
+commit c5001f480aa663df0339b54f241e8a79cb71fe33
+Merge: 5962d48 65ebe9d
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 23:21:39 2024 +0000
+
+    Merge branch 'main' into 'MagretsBranch'
+    
+    # Conflicts:
+    #   .gitlab-ci.yml
+
+commit 65ebe9dc9bd8de41d26ddf667efbea3f01e8f634
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 23:19:51 2024 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 5962d48069447293aa0a708fe53bf58e3e8560aa
+Author: Magret <magretadekunle@gmail.com>
+Date:   Wed Feb 21 17:12:53 2024 -0600
+
+    Add files ".gitignore" ".gitlab-ci.yml" "models.html " per rubric
+
+commit b84e3b0ba076b9303025edbbf74b99b1dc972ed3
+Merge: a961d31 0c36ed2
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 19:17:03 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Fixed Alignment of Navigation/Header
+    
+    See merge request magretadekunle/cs331e-idb!17
+
+commit 0c36ed2378db7a25d10d04ec263dc3004a333d83
+Author: Magret <magretadekunle@gmail.com>
+Date:   Wed Feb 21 13:16:16 2024 -0600
+
+    Fixed Alignment of Navigation/Header
+
+commit a961d316a23ffeb4bebc4bdfaaa22498ceb33cda
+Merge: bb674f3 f04c70f
+Author: Ryan Mullowney <rwmullowney@utexas.edu>
+Date:   Wed Feb 21 15:28:52 2024 +0000
+
+    Merge branch 'ryan-bootstrap' into 'main'
+    
+    Correct change that overwrote some content in about.html
+    
+    See merge request magretadekunle/cs331e-idb!16
+
+commit f04c70fb1bb5a974e9b3050b95bbbee26f74fca4
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Wed Feb 21 09:27:41 2024 -0600
+
+    Correct change that overwrote some content in about.html
+
+commit bb674f387938d0cb26a502c647b3f5372317cd89
+Merge: 3f33ce8 ffb71c9
+Author: Ryan Mullowney <rwmullowney@utexas.edu>
+Date:   Wed Feb 21 15:17:32 2024 +0000
+
+    Merge branch 'ryan-bootstrap' into 'main'
+    
+    Ryan bootstrap
+    
+    See merge request magretadekunle/cs331e-idb!15
+
+commit ffb71c9651166a7b118566aa753d4e4b9c0214fa
+Merge: 2810e7e 3f33ce8
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Wed Feb 21 09:15:46 2024 -0600
+
+    Merge branch 'main' into ryan-bootstrap
+
+commit 3f33ce8e77a340aa3050787b68ea3f5f632576a1
+Merge: a801446 ddb4522
+Author: Ryan Mullowney <rwmullowney@utexas.edu>
+Date:   Wed Feb 21 15:04:28 2024 +0000
+
+    Merge branch 'ryan-aboutme' into 'main'
+    
+    Ryan aboutme
+    
+    See merge request magretadekunle/cs331e-idb!14
+
+commit ddb4522217a48d5fb13b9cb754beadc1c3c1014a
+Merge: 4969e39 a801446
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Wed Feb 21 09:00:00 2024 -0600
+
+    Merge branch 'main' into ryan-aboutme.  Update "About Me" info
+
+commit 2810e7e43f6e4c3f78212498b13e3b281b5c701f
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Feb 20 22:34:16 2024 -0600
+
+    Create sidebar template w/ Bootstrap and integrate with all main pages
+
+commit a8014469c92f8bc189db2d34ab63f1dfdf9e6303
+Merge: 6367d5e 197eb35
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 04:33:57 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Few small changes to layout
+    
+    See merge request magretadekunle/cs331e-idb!13
+
+commit 197eb3557f257254898a1a91c130522ad01e593c
+Author: Magret <magretadekunle@gmail.com>
+Date:   Tue Feb 20 22:33:04 2024 -0600
+
+    Few small changes to layout
+
+commit 6367d5efe3fe6aa75cc94c995fd9a8d4aadbeac3
+Merge: 292564f 416c79f
+Author: hollyrl108 <holly@luebsen.com>
+Date:   Wed Feb 21 04:06:05 2024 +0000
+
+    Merge branch 'holly1' into 'main'
+    
+    fix genre bug
+    
+    See merge request magretadekunle/cs331e-idb!12
+
+commit 6c317ad120d77a7f003c7003957fec2fe430de39
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Feb 20 22:02:53 2024 -0600
+
+    Add bootstrap header template and integrate it with all main pages
+
+commit 416c79f90ab7b0fcc64c67d11f30a2010ccae76a
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Tue Feb 20 22:02:31 2024 -0600
+
+    fix genre bug
+
+commit 292564f239a4207088634d2ee9c2f444c8a216b9
+Merge: 79bd7da c4334fd
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 03:12:13 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Small Changes to Bio
+    
+    See merge request magretadekunle/cs331e-idb!11
+
+commit c4334fddc80664b7c3b6fc953f580807bb3d4d06
+Merge: 63b3751 79bd7da
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 21 03:12:01 2024 +0000
+
+    Merge branch 'main' into 'MagretsBranch'
+    
+    # Conflicts:
+    #   main.py
+
+commit 63b37516bf8c1bfea6cfab14d56df827b1dca818
+Author: Magret <magretadekunle@gmail.com>
+Date:   Tue Feb 20 21:11:01 2024 -0600
+
+    Small Changes to Bio
+
+commit 79bd7da0736fdfc636574a3018f3bd429136c121
+Merge: 1875168 871ab2c
+Author: Jack A Yeung <jackyeung@utexas.edu>
+Date:   Wed Feb 21 03:04:55 2024 +0000
+
+    Merge branch 'jack-about' into 'main'
+    
+    Jack about bio filled in.
+    
+    See merge request magretadekunle/cs331e-idb!10
+
+commit 871ab2c65ac0930cb6be9be6aa62c329af0d77d2
+Author: Jack Yeung <jackyeung@utexas.edu>
+Date:   Tue Feb 20 20:55:40 2024 -0600
+
+    Jack about bio filled in.
+
+commit 187516841f61e35b38ece21aaa4ee2cc0e213a7f
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Tue Feb 20 20:09:19 2024 -0600
+
+    Holly's about bio
+
+commit 05b9fe2c63522b3fa22576e8014dc527a5e67655
+Merge: 36743ba 02fc1dd
+Author: hollyrl108 <holly@luebsen.com>
+Date:   Wed Feb 21 02:01:34 2024 +0000
+
+    Merge branch 'holly' into 'main'
+    
+    Holly
+    
+    See merge request magretadekunle/cs331e-idb!9
+
+commit 02fc1ddb28d4201400fd79d5b2c8212a1f12a46c
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Tue Feb 20 19:59:17 2024 -0600
+
+    bug fixes, fix dict, pop unconsistent
+
+commit 8ac4eff1fbcd09cb78a0e457180e3e10f8a76aa7
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Tue Feb 20 19:43:27 2024 -0600
+
+    fixed showGenre not displaying info
+
+commit da48c1c10927bf2cc0080a1aa52192cc3cc9827f
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Feb 20 19:24:16 2024 -0600
+
+    Create home and header html pages. Add music note icon.  Include header template on homepage.
+
+commit 4969e394a010eb1bb81793703394dafb2f65f441
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Feb 20 19:04:37 2024 -0600
+
+    Fill out Ryan's information on About Me page
+
+commit 36743ba282dfdb7d7dc643a1b97e4b333164ec54
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Tue Feb 20 16:32:25 2024 -0600
+
+    Small changes
+
+commit a0330c2d2191ef64661c7cae4a847a28fcedf377
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Mon Feb 19 09:36:09 2024 -0600
+
+    Added George's info in about.html
+
+commit b09c4edc378c1fec203437fbc4323dafc276a55a
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Sun Feb 18 20:50:46 2024 -0600
+
+    insert hyperlinks, need to add styling
+
+commit e3743c0801ca358cb31fb00c13021f7c8f120397
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Sun Feb 18 20:09:44 2024 -0600
+
+    start implementing links
+
+commit e0a000999eb109c369f5312535d4612cfb0950eb
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Sun Feb 18 19:24:36 2024 -0600
+
+    quick updates/organization
+
+commit 482ff2e85e9f62c43824685775752d9d2d867d4a
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Sun Feb 18 19:12:03 2024 -0600
+
+    fix main for showing genre
+
+commit b2eeaa3e31acf7fc358344dc08b365bee5bceacc
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Sun Feb 18 19:08:42 2024 -0600
+
+    remove relatedgenres, not needed atm
+
+commit 10e48b8d49b111f7c3dcba3fb3e7bacfb2abc650
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Sun Feb 18 19:03:15 2024 -0600
+
+    begin genre htmls
+
+commit 74fe9d542d5c43f3e32a7e9a908cdb2e396690cf
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Sun Feb 18 18:32:07 2024 -0600
+
+    create relatedGenres
+
+commit 0f315ad0e2ed379249fee964a60019fe5790c2af
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Sun Feb 18 18:31:50 2024 -0600
+
+    create showGenre
+
+commit 4e92eb3e60b0b3182b1216e0f6d8fd9b02849bc2
+Author: Holly Luebsen <holly@luebsen.com>
+Date:   Sun Feb 18 18:31:31 2024 -0600
+
+    create htmls
+
+commit 14f19500e737beea94106f457f7c31879204f223
+Merge: 7cf00e7 9280390
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Sat Feb 17 23:02:51 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Updated about.html page using bootstrap
+    
+    See merge request magretadekunle/cs331e-idb!6
+
+commit 9280390a2b996ae9362a8e8ba607f98843861794
+Author: Magret <magretadekunle@gmail.com>
+Date:   Sat Feb 17 17:02:20 2024 -0600
+
+    Updated about.html page using bootstrap
+
+commit 7cf00e7d24242b7facd96a3a131410049f1c72fc
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Sat Feb 17 12:17:31 2024 -0600
+
+    fixed template
+
+commit aa30356736d5596c8bc6cc3cd33919b9a758c0ba
+Merge: b8684ba 681aecb
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Sat Feb 17 18:11:50 2024 +0000
+
+    Merge branch 'jack' into 'main'
+    
+    Updated base page to show artists
+    
+    See merge request magretadekunle/cs331e-idb!4
+
+commit 681aecbf6675c0fcc710a33c84acc166d09904e9
+Merge: c0ad806 b8684ba
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Sat Feb 17 18:11:38 2024 +0000
+
+    Merge branch 'main' into 'jack'
+    
+    # Conflicts:
+    #   templates/showArtists.html
+
+commit b8684ba005d4950ba5223fa889ac0139a78d4c8c
+Merge: 94a66de 2bd8e59
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Sat Feb 17 18:07:18 2024 +0000
+
+    Merge branch 'GeorgeBranch' into 'main'
+    
+    Related artists page created
+    
+    See merge request magretadekunle/cs331e-idb!5
+
+commit 2bd8e5911280fe03f2158b9b9aab121795da0b71
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Sat Feb 17 12:03:21 2024 -0600
+
+    Related artists page created
+
+commit c0ad80675bea7851fce76470357634e53df64071
+Author: Jack Yeung <jackyeung@utexas.edu>
+Date:   Sat Feb 17 11:53:21 2024 -0600
+
+    Updated base page to show artists
+
+commit 94a66de89d624e7aac237672c5c7b57f7e0d22da
+Merge: c39653b fed8cd6
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Feb 14 03:51:24 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Added needed Dictionaries and set up initial page.
+    
+    See merge request magretadekunle/cs331e-idb!3
+
+commit fed8cd6745512720713daeed15812059ea68d9b6
+Author: Magret <magretadekunle@gmail.com>
+Date:   Tue Feb 13 21:49:19 2024 -0600
+
+    Add needed Dictionaries and set up initial page.
+
+commit c39653bd822c7faa82db62374ed8dc4aff14f37e
+Merge: 9a1ae02 3440eea
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Feb 12 21:49:35 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Setting Up Base for Project - Part II
+    
+    See merge request magretadekunle/cs331e-idb!2
+
+commit 3440eea417c1eba5f01c128e0be74d987d55b75f
+Author: Magret <magretadekunle@gmail.com>
+Date:   Mon Feb 12 15:48:58 2024 -0600
+
+    Setting Up Base for Project
+
+commit 9a1ae0291fdff965ccc319b3fd3d35e4326f6bdb
+Merge: 30c48f6 6873c1e
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Feb 12 21:39:33 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Setting Up Base for Project
+    
+    See merge request magretadekunle/cs331e-idb!1
+
+commit 6873c1e9a1f43720f68203d87acc2ce6265d4de2
+Merge: 57b32dc 30c48f6
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Feb 12 21:36:34 2024 +0000
+
+    Merge branch 'main' into 'MagretsBranch'
+    
+    # Conflicts:
+    #   .gitlab-ci.yml
+
+commit 30c48f6eb002cddc71413878a31d828bffc7fd97
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Feb 12 21:33:12 2024 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 57b32dce8b59995eeae4f746d4116596a8b96173
+Author: Magret <magretadekunle@gmail.com>
+Date:   Mon Feb 12 15:31:05 2024 -0600
+
+    Setting Up Base for Project
+
+commit ed411a4cd63845d02bf207f0586488e2ed6b79c5
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Feb 12 20:22:22 2024 +0000
+
+    Initial commit

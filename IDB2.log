@@ -1,0 +1,272 @@
+commit 678455449a47692b2f14e5281999f03821e6aedd
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Wed Mar 27 12:08:45 2024 -0500
+
+    Small fixes
+
+commit a892ff873f3ba2b89d248877862febde3f13dde6
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Wed Mar 27 11:44:34 2024 -0500
+
+    Fixed models.py
+
+commit fbe0bd03b06395b2ea6a733a7dc8ba204f8ff0c4
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Wed Mar 27 11:42:52 2024 -0500
+
+    Adjusting db_populate and creation files
+
+commit 63e510e8945cffc9bf136eea271094ad761dd275
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Wed Mar 27 09:46:47 2024 -0500
+
+    Added popularity instance for genre + basic unit tests
+
+commit 111dfe79791d9914e2374ad87a784d33d2d8485c
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Tue Mar 26 23:36:53 2024 -0500
+
+    Cleaned up files
+
+commit 7124be71d3ba79af9338f24506597d73f118f9ae
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Tue Mar 26 23:09:10 2024 -0500
+
+    Added albums instance for genre model
+
+commit fabd0b26cd9c35fc18efdf387f674e25b39d3726
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Mar 26 21:18:24 2024 -0500
+
+    Create artist and album card components, and create basic homepage display
+
+commit a7638d46d24180f1291cf0359862a991b8aadd1f
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Mar 26 20:09:53 2024 -0500
+
+    Convert showAllGenres and showGenre templates to React
+
+commit f5c2ffabf8151c2c23af546d973e3b6c36295725
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Mar 26 19:08:34 2024 -0500
+
+    Convert showArtist template to React
+    
+    Add conditional logic to avoid errors for displayArtist & displayAlbum
+    
+    Prettify several components
+
+commit 3a9569ee219e2c74f15c9e0c455e3e174871d6e9
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Mar 26 18:42:23 2024 -0500
+
+    Convert showAlbum template to React
+
+commit e9caa10dc2c408dc59f3b37d927aa4409f504f34
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Mar 26 18:11:27 2024 -0500
+
+    Convert About template to React
+
+commit e4c05cd984183513281ab873dc71045ebd29fb09
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Mar 26 17:35:51 2024 -0500
+
+    Properly implement react routing.  Create skeleton components for remaining pages.
+
+commit 4dfd8a70b289736c7f32b92303fb44a9e672a5fb
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Tue Mar 26 12:46:35 2024 -0500
+
+    Update "class" to "className".  Properly import CSS to React site.  Create first successful test API call to backend.
+
+commit 898815a44fd204c709d0a260f0df0a699dc807c5
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Mon Mar 25 21:43:16 2024 -0500
+
+    Fixed small things
+
+commit ada472cb33be74c3b24c085f125af5bd2ee1097f
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Mon Mar 25 21:42:13 2024 -0500
+
+    Fixed create_genre.py and models.py
+
+commit fe2590b6a99046cfad153c75343ddbb68a0c0438
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Mon Mar 25 21:17:23 2024 -0500
+
+    Fixed data extraction with spotipy
+
+commit e3e9a937ab984f08dac3c75ae97e549499e2ca89
+Author: George Mathew <georgegmathew12@gmail.com>
+Date:   Mon Mar 25 20:38:17 2024 -0500
+
+    Extracted data using API calls into JSON files
+
+commit c89088b0cdf804d859fc1d1afa00626a9cf752a8
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Mon Mar 25 19:35:10 2024 -0500
+
+    Create reusable components for albums/artists
+    
+    Add pathing for said components
+
+commit 596cbb3a8ea96f8ea609adc1f06aef5a5892d815
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Sun Mar 24 15:32:52 2024 -0500
+
+    Add React Router.  Add bootstrap javascript to React.  Create Home component.
+
+commit 1a5f469e72d6421fb9a783e1a4eae648c0812f9d
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Sun Mar 24 13:41:08 2024 -0500
+
+    Convert Header & Sidebar to components
+    
+    Some directory restructuring by renaming "static" folder to "assets" and moving it into the frontend/src folder
+
+commit 301834a6dad34f1d784762d2ce6cafffa04a5b0b
+Author: Ryan W Mullowney <rmullowney@austin.utexas.edu>
+Date:   Sun Mar 24 13:04:40 2024 -0500
+
+    Initial react setup/installation
+
+commit 1f3b590dde1372ad7c3be7a19c6d77382dbb8313
+Merge: b1db586 0c361db
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Sat Mar 23 16:20:30 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Updated Variables
+    
+    See merge request magretadekunle/cs331e-idb!26
+
+commit 0c361db3ce42b42c34c5d6cc587bf894df0c27bc
+Author: Magret <magretadekunle@gmail.com>
+Date:   Sat Mar 23 11:17:24 2024 -0500
+
+    Updated Variables
+
+commit b1db58642c0afec20484c9cd0fc29dc52325f2b9
+Merge: 2cb8d7a 7278606
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Thu Mar 21 01:31:01 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Updated Models.py pages and main.py
+    
+    See merge request magretadekunle/cs331e-idb!25
+
+commit 7278606b807f7b1934f009b0d3db37dc64763535
+Author: Magret <magretadekunle@gmail.com>
+Date:   Wed Mar 20 20:29:30 2024 -0500
+
+    Updated Mdoels pages and main.py
+
+commit 2cb8d7a6207c7ca0931e0abd16b7166e63a72cc2
+Merge: 1c645d3 f5a98e7
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Wed Mar 20 20:17:22 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Correction of the overall stucture of of WebApp (html files and how they link with ecah other)
+    
+    See merge request magretadekunle/cs331e-idb!24
+
+commit f5a98e797ccfa867f099f76f27276e9e2720fa21
+Author: Magret <magretadekunle@gmail.com>
+Date:   Wed Mar 20 15:11:18 2024 -0500
+
+    Correction of the overall stucture of of WebApp (html files and how they link with ecah other)
+
+commit 1c645d3420590d3931f64e99571dedc1f0994a48
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Mar 18 22:01:49 2024 +0000
+
+    Update file models.py
+
+commit ac9cd8d46d90a355dc5076da3dac95be4f74d5e8
+Merge: dbefb12 5af6d41
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Mar 18 21:35:54 2024 +0000
+
+    Merge branch 'MagretsBranch' into 'main'
+    
+    Magrets branch
+    
+    See merge request magretadekunle/cs331e-idb!23
+
+commit 5af6d41fa032c23b2174ba2fbb1b1d18a8e626e6
+Merge: 3ca09fd dbefb12
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Mar 18 21:34:54 2024 +0000
+
+    Merge branch 'main' into 'MagretsBranch'
+    
+    # Conflicts:
+    #   .gitlab-ci.yml
+    #   tests.py
+
+commit 3ca09fdbe8518dc2d8f5acc316f8f355f916a707
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Mar 18 21:29:03 2024 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 8f77489c1bb02dbf8aa4dbe86065651aadfc3b8d
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Mar 18 21:27:34 2024 +0000
+
+    Update file tests.py
+
+commit 097809efd077aa89958f5eee6110826a6c292146
+Author: Magret <magretadekunle@gmail.com>
+Date:   Mon Mar 18 16:25:46 2024 -0500
+
+    Fix errors to ci/cd pipeline
+
+commit dbefb1288242084a8db0cd6a858e85ec16d047ad
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Mar 18 21:23:50 2024 +0000
+
+    Update file tests.py
+
+commit 21c696e8fea1c7e5e3e3e1be47c64cb3d1aa37fb
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Mar 18 21:22:06 2024 +0000
+
+    Update .gitlab-ci.yml
+
+commit ed187e7e95d55ae533792751739c8998107846cf
+Author: Magret <magretadekunle@gmail.com>
+Date:   Mon Mar 18 16:19:45 2024 -0500
+
+    correct .gitlab-ci.yml file
+
+commit c7bc848718214991a431785fec95b7142a2190ed
+Author: Magret <magretadekunle@gmail.com>
+Date:   Mon Mar 18 16:15:23 2024 -0500
+
+    correct .gitlab-ci.yml file
+
+commit 862f5a503b2f3d90e709b2987e85f9d7a871fdec
+Author: Magret <magretadekunle@gmail.com>
+Date:   Mon Mar 18 16:12:42 2024 -0500
+
+    Updating test.py (dummy page)
+
+commit 895cac7e983925e3cb88a05ca9acedf5e1b02a68
+Author: Magret Adekunle <magretadekunle@gmail.com>
+Date:   Mon Mar 18 21:09:24 2024 +0000
+
+    Update .gitlab-ci.yml file
+
+commit 25264765a40dd8ac2f8d99a844ec50d9ec25cafb
+Author: Magret <magretadekunle@gmail.com>
+Date:   Mon Mar 18 15:53:50 2024 -0500
+
+    Update to the basic of the database.
